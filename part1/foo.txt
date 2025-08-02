@@ -4,8 +4,8 @@ Make some changes to this file.
 
 Maybe fill this out?
 
-* The best operating system is ex2
-* The best kind of phone is ex2
-* The best operating system is ______
-* The best kind of phone is _______
+* The best operating system is  ex4
++* The best operating system is ex4
++* The best text editor is ex4	
++* The best kind of phone is ex4
 * The best superhero is ___________
